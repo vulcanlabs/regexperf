@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  },
+  "scripts": {
+    "test": "node ./regex.js"
+  } 
+  
+}
